@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* com.restfox.heroku.Main
+web: java -cp target/classes:target/dependency/* com.restfox.heroku.RestContainerApplication
